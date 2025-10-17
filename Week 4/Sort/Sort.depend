@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1760690274 source:d:\son\dsa\week 4\sort\main.cpp
+	<iostream>
+	"mergeSort.h"
+	"quickSort.h"
+	"heapSort.h"
+
+1760686486 d:\son\dsa\week 4\sort\mergesort.h
+
+1760689095 d:\son\dsa\week 4\sort\quicksort.h
+
+1760690274 d:\son\dsa\week 4\sort\heapsort.h
+	"maxBinaryHeap.h"
+
+1760690274 d:\son\dsa\week 4\sort\maxbinaryheap.h
+
