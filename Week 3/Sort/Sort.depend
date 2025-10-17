@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1760676407 source:d:\son\dsa\week 3\sort\main.cpp
+	<iostream>
+	"selectionSort.h"
+	"insertionSort.h"
+	"bubbleSort.h"
+	"binarySearch.h"
+
+1760673384 d:\son\dsa\week 3\sort\selectionsort.h
+
+1760674153 d:\son\dsa\week 3\sort\insertionsort.h
+
+1760675197 d:\son\dsa\week 3\sort\bubblesort.h
+
+1760676328 d:\son\dsa\week 3\sort\binarysearch.h
+
