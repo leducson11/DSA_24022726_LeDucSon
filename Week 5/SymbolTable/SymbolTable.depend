@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1761895405 source:d:\son\dsa\week 5\symboltable\main.cpp
+	"symbolTable.h"
+	<iostream>
+
+1761895642 d:\son\dsa\week 5\symboltable\symboltable.h
+	<iostream>
+	<stdexcept>
+
