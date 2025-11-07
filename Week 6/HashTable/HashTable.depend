@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1762507392 source:d:\son\dsa\week 6\hashtable\main.cpp
+	<iostream>
+	"OpenHash.h"
+	"ChainHash.h"
+
+1762506661 d:\son\dsa\week 6\hashtable\openhash.h
+	<vector>
+	<iostream>
+
+1762507381 d:\son\dsa\week 6\hashtable\chainhash.h
+	<iostream>
+	<list>
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1762491825 source:d:\son\dsa\week 6\binarysearchtree\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+
+1762502662 d:\son\dsa\week 6\binarysearchtree\binarysearchtree.h
+	<iostream>
+	<algorithm>
+
