@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1763111338 source:d:\son\dsa\week 7\graph_bfs_dfs\main.cpp
+	"Graph.h"
+
+1763111338 d:\son\dsa\week 7\graph_bfs_dfs\graph.h
+	<iostream>
+	<vector>
+	<queue>
+
